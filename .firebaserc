@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "production": "promoboxx",
+    "staging": "promoboxx-stg",
+    "development": "promoboxx-dev",
+    "landing": "promoboxx-landing-page",
+    "default": "promoboxx-landing-page"
+  }
+}
